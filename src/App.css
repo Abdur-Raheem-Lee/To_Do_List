@@ -1,0 +1,30 @@
+body {
+    padding: 50px;
+    background-image: url("bg.jpeg");
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: center;
+    color: black;
+    min-width: 300px;
+    width: auto;
+    list-style: none;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-weight: bold;
+}
+
+button {
+    height: auto;
+    width: auto;
+    padding: 3px;
+    border: 1px solid chocolate;
+    border-radius: 3px;
+    background-color: navajowhite;
+    color: black;
+}
